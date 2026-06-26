@@ -1,6 +1,6 @@
 # ip_axi_linear — Module Reference Tables
+<img width="2980" height="1255" alt="IP LINEAR VER 3" src="https://github.com/user-attachments/assets/2ca808b1-cf00-4179-89d2-5f062b4ccd97" />
 
-<img width="1012" height="426" alt="image" src="https://github.com/user-attachments/assets/fb41e305-5a6b-48bb-b0c3-eb9d29a85d0a" />
 <img width="508" height="389" alt="image" src="https://github.com/user-attachments/assets/80748973-c535-4d21-9e02-10392a6c06a0" />
 
 
