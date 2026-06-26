@@ -1,7 +1,8 @@
 # ip_axi_linear — Module Reference Tables
 
-<img width="648" height="273" alt="image" src="https://github.com/user-attachments/assets/34e33d0d-e4ce-4559-9a59-3ec481fab2e0" />
-<img width="325" height="249" alt="image" src="https://github.com/user-attachments/assets/ccaabab6-19bf-44d7-b82d-6fdd173729d5" />
+<img width="1012" height="426" alt="image" src="https://github.com/user-attachments/assets/fb41e305-5a6b-48bb-b0c3-eb9d29a85d0a" />
+<img width="508" height="389" alt="image" src="https://github.com/user-attachments/assets/80748973-c535-4d21-9e02-10392a6c06a0" />
+
 
 
 ## 1. Tổng quan số module & hierarchy
